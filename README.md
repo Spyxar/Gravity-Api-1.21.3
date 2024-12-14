@@ -1,3 +1,5 @@
+This is only an update for [the original Gravity API by Fusion Flux](https://github.com/Fusion-Flux/Gravity-Api), what follows is also the original readme.
+
 # GravityChanger
 A fabric mod and api that lets you change player gravity direction.
 
